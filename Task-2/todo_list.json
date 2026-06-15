@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "Student Management System using Python",
+        "description": "A Python-based application to add, view, search, update, delete, and manage student records with JSON file storage and automatic grade calculation.",
+        "priority": "High",
+        "due_date": "01/07/2026",
+        "status": "Pending",
+        "created": "2026-06-16 00:18"
+    }
+]
